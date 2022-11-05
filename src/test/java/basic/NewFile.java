@@ -5,7 +5,7 @@ public class NewFile {
 	public static void main(String[] args) {
 		System.out.println("New File");
 		
-		System.out.println("Develop  branch");
+		System.out.println("Develop");
 	}
 
 }
