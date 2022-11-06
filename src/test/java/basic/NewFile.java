@@ -6,6 +6,8 @@ public class NewFile {
 		System.out.println("New File");
 		System.out.println("New File clone");
 		System.out.println("New File2");
+		
+		System.out.println("Hello");
 	}
 
 }
